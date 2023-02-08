@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                  Starting Execution: '1 out of 1' test cases in the current suite
+Test Method: 'tests.Registertest.usertest'                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "Register". @08-02-2023 11:49:42.0647 AM
+[ReportManager] Click "Female". @08-02-2023 11:49:43.0461 AM
+[ReportManager] Type "Ahmed" into "First name:". @08-02-2023 11:49:44.0368 AM
+[ReportManager] Type "Mohamed" into "Last name:". @08-02-2023 11:49:45.0248 AM
+[ReportManager] Type "jkhljkh@gmail.com" into "Email:". @08-02-2023 11:49:46.0109 AM
+[ReportManager] Type "1234566" into "Password:". @08-02-2023 11:49:46.0991 AM
+[ReportManager] Type "1234566" into "Confirm password:". @08-02-2023 11:49:47.0861 AM
+[ReportManager] Click "REGISTER". @08-02-2023 11:49:49.0390 AM
